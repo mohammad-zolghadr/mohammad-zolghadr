@@ -1,17 +1,15 @@
-Hello And Welcome To My Github Page😉
-===============================
-
 Front-End Developer💻
 -----------------------------
-
-*   🖥️  See my portfolio at [My Website](https://mohammadzolghadr.ir)
-*   🤝  I'm open to collaborating on interesting projects as a web developer
 
 <a href="https://instagram.com/mozo.plus" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/static/v1?label=%20instagram%20&message=%20Follow%20Me%20&color=critical"
                 /></a> <a href="https://www.github.com/mohammad-zolghadr" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/mohammad-zolghadr?logo=github&color=informational&labelColor=1c1917" /></a>
-                  
+              
+              
+*   🖥️  See my portfolio at [My Website](https://mohammadzolghadr.ir)
+*   🤝  I'm open to collaborating on interesting projects as a web developer
+    
 ### Skills
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a> 

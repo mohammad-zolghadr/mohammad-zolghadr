@@ -27,7 +27,7 @@
 </p>
               
               
-*   🖥️  See my portfolio at [My Website](https://mohammadzolghadr.ir)
+*   🖥️  See my activities at [MyWebsite](https://mohammadzolghadr.ir)
 *   🤝  I'm open to collaborating on interesting projects as a web developer
 
 ---

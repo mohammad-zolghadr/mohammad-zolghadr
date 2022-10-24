@@ -1,10 +1,10 @@
 <div id="header" >
   
 
-<img src="https://user-images.githubusercontent.com/48680310/197483585-9c0e16ba-cda5-494d-a2ef-a90754eb2ac7.gif" width="45%" align="right" />
+<img src="https://user-images.githubusercontent.com/48680310/197483585-9c0e16ba-cda5-494d-a2ef-a90754eb2ac7.gif" width="40%" align="right" />
 
 
-### 💻Front-End Developer
+### Front-End Developer
         
 *   🖥️  See my activities at [MyWebsite](https://mohammadzolghadr.ir)
 *   🤝  I'm open to collaborating on interesting projects as a web developer

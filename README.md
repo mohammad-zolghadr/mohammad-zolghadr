@@ -1,7 +1,7 @@
 <div id="header" >
   
 
-<img src="https://user-images.githubusercontent.com/48680310/197483585-9c0e16ba-cda5-494d-a2ef-a90754eb2ac7.gif" width="40%" align="right" />
+<img src="https://user-images.githubusercontent.com/48680310/197483585-9c0e16ba-cda5-494d-a2ef-a90754eb2ac7.gif" width="45%" align="right" />
 
 
 ### 💻Front-End Developer
@@ -38,8 +38,8 @@
 
 <h2> 📈 &nbsp;My GitHub History</h2>
 <a href="https://github.com/mohammad-zolghadr" align="center">
-  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=mohammad-zolghadr&theme=algolia&show_icons=true" />
-  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-zolghadr&theme=algolia&layout=compact" />
+  <img height="180px" width="45%" src="https://github-readme-stats.vercel.app/api?username=mohammad-zolghadr&theme=algolia&show_icons=true" />
+  <img height="180px" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-zolghadr&theme=algolia&layout=compact" />
 </a>  
 
 

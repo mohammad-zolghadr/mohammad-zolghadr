@@ -37,9 +37,9 @@
 ---
 
 <h2> 📈 &nbsp;My GitHub History</h2>
-<a href="https://github.com/mohammad-zolghadr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohammad-zolghadr&theme=algolia&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-zolghadr&theme=algolia&layout=compact" />
+<a href="https://github.com/mohammad-zolghadr" align="center">
+  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=mohammad-zolghadr&theme=algolia&show_icons=true" />
+  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-zolghadr&theme=algolia&layout=compact" />
 </a>  
 
 

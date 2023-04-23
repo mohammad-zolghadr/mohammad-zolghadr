@@ -35,6 +35,6 @@
 
 <h2> 📈 &nbsp;My GitHub History</h2>
 <a href="https://github.com/mohammad-zolghadr" align="center">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=mohammad-zolghadr&show_icons=true&theme=radical&include_all_commits=tre&card_width=300px&hide_title=true" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=mohammad-zolghadr&show_icons=true&theme=radical&include_all_commits=true&card_width=300px&hide_title=true" />
   <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-zolghadr&theme=radical&layout=compact&card_width=100px&hide_title=true" />
 </a>

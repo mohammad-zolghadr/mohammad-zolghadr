@@ -1,25 +1,23 @@
-<div id="header" >
+<div id="header" align="center">
 
-<img src="https://user-images.githubusercontent.com/48680310/197483585-9c0e16ba-cda5-494d-a2ef-a90754eb2ac7.gif" width="40%" align="right" />
+<img src="https://user-images.githubusercontent.com/48680310/233927090-0525363a-96c7-4f52-b1d1-e607c087dd19.png" />
 
-### Front-End Developer
 
-- 🖥️ See my activities at [MyWebsite](https://mohammadzolghadr.ir)
-- 🤝 I'm open to collaborating on interesting projects as a web developer
-<p align="left">
+<p>
+</br>
 <a href="https://linkedin.com/in/mohammad-zolghadr"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dev.mohammadzolghadr@gmail.com&su=Subject"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/mozo.plus"><img src="https://img.shields.io/badge/-Instagram-A50B5E?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
-</br>
+## Hi 👋, I'm Mohammad Zolghadr </br> </br> <p>A patient and creative Front-end Developer</p>
 
 </div>
 
+![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react)&nbsp;
+![Tailwind](https://img.shields.io/badge/-Tailwindcss-05122A?style=for-the-badge&logo=tailwindcss)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
 ![Typescript](https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=typescript)&nbsp;
-![Tailwind](https://img.shields.io/badge/-Tailwindcss-05122A?style=for-the-badge&logo=tailwindcss)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=for-the-badge&logo=redux&logoColor=764ABC)&nbsp;
 ![React Router](https://img.shields.io/badge/-ReactRouter-05122A?style=for-the-badge&logo=reactRouter&logoColor=FF4154)&nbsp;
 ![Axios](https://img.shields.io/badge/-Axios-05122A?style=for-the-badge&logo=axios)&nbsp;

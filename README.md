@@ -10,7 +10,7 @@
 <a href="https://instagram.com/mozo.plus"><img src="https://img.shields.io/badge/-Instagram-A50B5E?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
-## Hi 👋, I'm Mohammad Zolghadr </br> </br> <p>A patient and creative Front-end Developer</p>
+#### <p align="justify">I am a Freelance Frontend Web Developer with patience and creativity and caring for projects. I am ready to cooperate with the latest technologies such as React.js and TailwindCss to build a stylish website with the best UX.</p>
 
 </div>
 

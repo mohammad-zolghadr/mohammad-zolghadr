@@ -2,11 +2,10 @@
   <img src="https://user-images.githubusercontent.com/48680310/233927090-0525363a-96c7-4f52-b1d1-e607c087dd19.png" alt="Developer Banner" width="100%" />
 </div>
 
+
 <div align="center">
 
-# 💫 Welcome to My Universe
-
-### *Where Code Meets Creativity*
+  ### *Where Code Meets Creativity*
 
 ```javascript
 const developer = {
@@ -86,12 +85,6 @@ I'm not your typical developer – I'm a **Digital Artist** who happens to speak
 </div>
 
 
-<div align="center">
-
-## 🎯 My Crafting Philosophy
-
-</div>
-
 <div align="left">
 
 ```typescript
@@ -118,14 +111,14 @@ const craftWebsite = (idea: Vision): MasterPiece => {
 
 <div align="center">
 
-## 📊 My Digital Footprint
+<!-- ## 📊 My Digital Footprint
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohammad-zolghadr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" alt="GitHub Stats"/>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammad-zolghadr&theme=tokyonight&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-zolghadr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages"/>
 
-</div>
+</div> -->
 
 
 <div align="center">

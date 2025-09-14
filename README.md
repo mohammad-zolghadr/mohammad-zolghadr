@@ -1,38 +1,157 @@
-<div id="header" align="center">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/48680310/233927090-0525363a-96c7-4f52-b1d1-e607c087dd19.png" alt="Developer Banner" width="100%" />
+</div>
 
-<img src="https://user-images.githubusercontent.com/48680310/233927090-0525363a-96c7-4f52-b1d1-e607c087dd19.png" />
+<div align="center">
 
+# 💫 Welcome to My Universe
 
-<p>
-</br>
-<a href="https://linkedin.com/in/mohammad-zolghadr"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=dev.mohammadzolghadr@gmail.com&su=Subject"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/mozo.plus"><img src="https://img.shields.io/badge/-Instagram-A50B5E?style=flat&logo=Instagram&logoColor=white"/></a>
-</p>
+### *Where Code Meets Creativity*
 
-#### <p align="justify">I am a Freelance Frontend Web Developer with patience and creativity and caring for projects. I am ready to cooperate with the latest technologies such as React.js and TailwindCss to build a stylish website with the best UX.</p>
+```javascript
+const developer = {
+  name: "Frontend Wizard",
+  passion: "Crafting Digital Experiences",
+  superpower: "Transforming Ideas into Reality",
+  motto: "Patience + Creativity + Care = Perfect Code"
+};
+```
 
 </div>
 
-![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react)&nbsp;
-![Tailwind](https://img.shields.io/badge/-Tailwindcss-05122A?style=for-the-badge&logo=tailwindcss)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
-![Typescript](https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=typescript)&nbsp;
-![Redux](https://img.shields.io/badge/-Redux-05122A?style=for-the-badge&logo=redux&logoColor=764ABC)&nbsp;
-![React Router](https://img.shields.io/badge/-ReactRouter-05122A?style=for-the-badge&logo=reactRouter&logoColor=FF4154)&nbsp;
-![Axios](https://img.shields.io/badge/-Axios-05122A?style=for-the-badge&logo=axios)&nbsp;
-![RestApi](https://img.shields.io/badge/-RestApi-05122A?style=for-the-badge&logo=restApi)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
-![SASS](https://img.shields.io/badge/-SASS-05122A?style=for-the-badge&logo=sass&logoColor=CC6699)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-05122A?style=for-the-badge&logo=figma)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
----
+<div align="center">
 
-<h2> 📈 &nbsp;My GitHub History</h2>
-<a href="https://github.com/mohammad-zolghadr" align="center">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=mohammad-zolghadr&show_icons=true&theme=radical&include_all_commits=true&card_width=300px&hide_title=true" />
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-zolghadr&theme=radical&layout=compact&card_width=100px&hide_title=true" />
+## 🎨 *"I don't just write code, I paint with pixels"*
+
+</div>
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+### 🌟 The Art of Development
+
+I'm not your typical developer – I'm a **Digital Artist** who happens to speak fluent JavaScript. With every line of code, I weave stories that users fall in love with. My canvas? The browser. My brush? React.js and TailwindCSS.
+
+### ⚡ What Makes Me Different?
+
+- 🧘‍♂️ **Zen Coder** - Patience is my secret weapon
+- 🎭 **Creative Alchemist** - Turning boring UIs into magical experiences  
+- 💝 **Project Guardian** - Every project gets my heart and soul
+- 🚀 **Innovation Hunter** - Always chasing the latest tech trends
+
+<br clear="right"/>
+<br clear="right"/>
+
+<div align="center">
+
+## 🛠️ My Arsenal of Magic
+
+<table>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+      <br><strong>React.js</strong>
+      <br><em>The Heart</em>
+    </td>
+    <td align="center" width="200">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+      <br><strong>JavaScript</strong>
+      <br><em>The Soul</em>
+    </td>
+    <td align="center" width="200">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+      <br><strong>TypeScript</strong>
+      <br><em>The Mind</em>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="65" height="65" />
+      <br><strong>TailwindCSS</strong>
+      <br><em>The Style</em>
+    </td>
+    <td align="center">
+      <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="Sass" width="65" height="65" />
+      <br><strong>Sass</strong>
+      <br><em>The Power</em>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="65" height="65" />
+      <br><strong>Figma</strong>
+      <br><em>The Vision</em>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+
+<div align="center">
+
+## 🎯 My Crafting Philosophy
+
+</div>
+
+<div align="left">
+
+```typescript
+interface MyApproach {
+  userExperience: "Silky Smooth" | "Intuitive" | "Delightful";
+  designSystem: "Pixel Perfect" | "Consistent" | "Scalable";
+  performance: "Lightning Fast" | "Optimized" | "Efficient";
+  codeQuality: "Clean" | "Maintainable" | "Future-Proof";
+}
+
+const craftWebsite = (idea: Vision): MasterPiece => {
+  return {
+    step1: "Listen with patience 👂",
+    step2: "Design with creativity 🎨", 
+    step3: "Code with precision ⚡",
+    step4: "Polish with care 💎",
+    result: "Digital Art that Users Love ❤️"
+  };
+};
+```
+
+</div>
+
+
+<div align="center">
+
+## 📊 My Digital Footprint
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohammad-zolghadr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammad-zolghadr&theme=tokyonight&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-zolghadr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages"/>
+
+</div>
+
+
+<div align="center">
+
+## 📬 Let's Connect & Create
+
+<a href="mailto:dev.mohammadzolghadr@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
+<a href="https://www.linkedin.com/in/mohammad-zolghadr/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://mohammadzolghadr.ir">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+</a>
+
+</div>
+
+
+<div align="center">
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="500" alt="Coding Animation"/>
+
+### *"Every pixel has a purpose, every animation tells a story"*
+
+**⚡ Powered by passion, fueled by creativity, delivered with care ⚡**
+
+
+</div>
